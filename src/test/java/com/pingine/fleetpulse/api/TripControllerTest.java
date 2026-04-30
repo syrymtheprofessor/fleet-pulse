@@ -4,7 +4,6 @@ import com.pingine.fleetpulse.api.dto.TripResponse;
 import com.pingine.fleetpulse.api.dto.VehicleResponse;
 import com.pingine.fleetpulse.service.TripNotFoundException;
 import com.pingine.fleetpulse.service.TripService;
-import lombok.RequiredArgsConstructor;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
